@@ -1,4 +1,4 @@
-### Olá eu sou Alberinando
+### Olá! Eu sou Alberinando
 
 - 🔭 Sou desenvolverdo front-end e Product Owner
 - 🌱 Hoje eu estou estudando Javascript
