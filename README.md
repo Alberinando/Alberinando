@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/Alberinando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alberinando&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberinando&langs_count=8&hide_progress=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberinando&langs_count=8&hide_progress=true&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
