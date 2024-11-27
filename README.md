@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alberinando
 
-- 🔭 Sou desenvolverdo front-end e Product Owner
+- 🔭 Sou desenvolverdo fullstack
 - 🌱 Hoje eu estou estudando Javascript
 - 😄 Pronouns: Ele/Dele
 <div>
