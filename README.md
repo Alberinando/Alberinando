@@ -1,7 +1,6 @@
 ### Olá! Eu sou Alberinando
 
 - 🔭 Sou desenvolverdo fullstack
-- 🌱 Hoje eu estou estudando Javascript
 - 😄 Pronouns: Ele/Dele
 <div>
 <a href="https://github.com/Alberinando">
